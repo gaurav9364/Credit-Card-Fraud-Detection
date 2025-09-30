@@ -28,3 +28,7 @@ Credit-Card-Fraud-Detection/
 │── src/ # Source code
 │── requirements.txt # Dependencies
 │── README.md # Project documentation
+
+
+## Dataset Link
+[creditcard.csv](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
